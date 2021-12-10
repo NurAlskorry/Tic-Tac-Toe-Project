@@ -4,7 +4,7 @@ CS20
 ---
 
 Steps in Creating a Tic Tac Toe Processing-Java Game
-- Play the Game, see Google
+- Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
 - Review some analysis videos of the game no get ideas about algorithms and code
 - Design GUI & Data Structures
 - Code a Two-player version or Super Tic Tac Toe
