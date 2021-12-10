@@ -5,11 +5,25 @@ CS20
 
 Steps in Creating a Tic Tac Toe Processing-Java Game
 - Play the Game, see Google
-- Review some analysis videos of the game no get ideas about algorithms and code 
+- Review some analysis videos of the game no get ideas about algorithms and code
 - Design GUI & Data Structures
 - Code a Two-player version or Super Tic Tac Toe
 - Prototype 1-Player Algorithms
 - Assemble the whole game
+
+---
+
+# Play the Game
+- See Google Chrome: search Tic Tac Toe
+- Use any other app or paper and pencil
+- Notice,
+  - 1 or 2 player modes
+  - Levels for 1 Player
+  - Restart Button
+  - Scoreboard and method to show whose turn it is
+
+---
+
 
 ---
 
